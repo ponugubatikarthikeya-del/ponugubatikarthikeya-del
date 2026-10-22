@@ -90,7 +90,7 @@ A production-level Android app that helps users discover nearby jobs, powered by
 
 `Kotlin` `Jetpack Compose` `Spring Boot` `JWT` `MySQL` `Hilt` `MVI` `Clean Architecture`
 
-<a href="https://github.com/ponugubatikarthikeya-del?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-B388FF?style=flat-square&logo=github&logoColor=white&labelColor=0f2027"/></a>
+<a href="https://github.com/ponugubatikarthikeya-del?https://github.com/ponugubatikarthikeya-del/Local-Job-Finder"><img src="https://img.shields.io/badge/View%20All%20Repos-B388FF?style=flat-square&logo=github&logoColor=white&labelColor=0f2027"/></a>
 
 </td>
 </tr>
