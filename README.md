@@ -49,7 +49,7 @@ class Karthik : AndroidFullStackDeveloper {
 ## 🛠️ Tech Stack
 
 ### 📱 Android
-<p> <img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Kotlin-0f2027?style=for-the-badge&logo=kotlin&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-0f2027?style=for-the-badge&logo=jetpackcompose&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/XML-0f2027?style=for-the-badge&logo=xml&logoColor=B388FF" /> <img src="https://img.shields.io/badge/MVVM-0f2027?style=for-the-badge&logo=android&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Clean%20Architecture-0f2027?style=for-the-badge&logo=android&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Material%203-0f2027?style=for-the-badge&logo=materialdesign&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Hilt-0f2027?style=for-the-badge&logo=dagger&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Room-0f2027?style=for-the-badge&logo=sqlite&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Retrofit-0f2027?style=for-the-badge&logo=square&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Coroutines-0f2027?style=for-the-badge&logo=kotlin&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Flow-0f2027?style=for-the-badge&logo=kotlin&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Firebase-0f2027?style=for-the-badge&logo=firebase&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/DataStore-0f2027?style=for-the-badge&logo=android&logoColor=B388FF" /> </p>
+<p> <img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Kotlin-0f2027?style=for-the-badge&logo=kotlin&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-0f2027?style=for-the-badge&logo=jetpackcompose&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/XML-0f2027?style=for-the-badge&logo=xml&logoColor=B388FF" /> <img src="https://img.shields.io/badge/MVI-0f2027?style=for-the-badge&logo=android&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Clean%20Architecture-0f2027?style=for-the-badge&logo=android&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Material%203-0f2027?style=for-the-badge&logo=materialdesign&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Hilt-0f2027?style=for-the-badge&logo=dagger&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Room-0f2027?style=for-the-badge&logo=sqlite&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Retrofit-0f2027?style=for-the-badge&logo=square&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Coroutines-0f2027?style=for-the-badge&logo=kotlin&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Flow-0f2027?style=for-the-badge&logo=kotlin&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Firebase-0f2027?style=for-the-badge&logo=firebase&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/DataStore-0f2027?style=for-the-badge&logo=android&logoColor=B388FF" /> </p>
 
 ### 🖥️ Backend
 <p> <img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/Spring%20Boot-0f2027?style=for-the-badge&logo=springboot&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Spring%20Security-0f2027?style=for-the-badge&logo=springsecurity&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/JWT-0f2027?style=for-the-badge&logo=jsonwebtokens&logoColor=B388FF" /> <img src="https://img.shields.io/badge/REST%20APIs-0f2027?style=for-the-badge&logo=fastapi&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/JPA%2FHibernate-0f2027?style=for-the-badge&logo=hibernate&logoColor=B388FF" /> <img src="https://img.shields.io/badge/Microservices-0f2027?style=for-the-badge&logo=kubernetes&logoColor=00F5FF" /> <img src="https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=B388FF" /> </p>
@@ -84,29 +84,22 @@ Delivers interesting and educational facts through a clean, lightweight, and use
 <td width="50%">
 
 ### 💼 Local Job Finder
-**🟡 In Progress**
+**🟡 Full Stack Project**
 
 A production-level Android app that helps users discover nearby jobs, powered by a Spring Boot backend.
 
-`Kotlin` `Jetpack Compose` `Spring Boot` `JWT` `MySQL` `Hilt` `MVVM` `Clean Architecture`
+`Kotlin` `Jetpack Compose` `Spring Boot` `JWT` `MySQL` `Hilt` `MVI` `Clean Architecture`
+
+<a href="https://github.com/ponugubatikarthikeya-del?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-B388FF?style=flat-square&logo=github&logoColor=white&labelColor=0f2027"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💰 Expense Tracker
-**🟡 In Progress**
-
-A modern Android app for tracking income and expenses, built with production-level Android architecture.
-
-`Kotlin` `Jetpack Compose` `Room` `Material 3` `MVVM` `Spring Boot`
-
-</td>
-<td width="50%">
 
 ### ✨ More on the way
-Currently building **Local Job Finder** and **Expense Tracker** — repos will be linked here once public.
+Currently i am building **Production apps** — repos will be linked here once public.
 
 <a href="https://github.com/ponugubatikarthikeya-del?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-B388FF?style=flat-square&logo=github&logoColor=white&labelColor=0f2027"/></a>
 
